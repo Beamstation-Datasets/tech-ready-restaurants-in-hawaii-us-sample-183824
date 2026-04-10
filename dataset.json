@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in Hawaii, US",
+  "export_job_id": "3bf2882e-9338-445c-9263-36b383aa788f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 183824,
+  "location_name": "Hawaii",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-hawaii-us-sample-183824",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/183824/beamstation_183824_restaurants-us-hi_SAMPLE_DIST.csv",
+  "sample_pct": 7.14,
+  "sample_records": 1,
+  "sample_sha256": "0fe22896b1fcb32e3b1b8d2f08dfa74cd9299496786d65db733a1f715658c600",
+  "sample_size_bytes": 20113,
+  "total_records": 14,
+  "updated_at": "2026-04-08T04:11:30.110910+00:00"
+}
