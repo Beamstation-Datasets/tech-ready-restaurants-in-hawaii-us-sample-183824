@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3bf2882e-9338-445c-9263-36b383aa788f",
+  "export_job_id": "6b4b8d33-69ef-4f06-844a-ef294a1a823d",
   "id_short": 183824,
-  "published_at": "2026-04-10T19:28:00Z",
+  "published_at": "2026-04-19T07:23:00Z",
   "repo_name": "tech-ready-restaurants-in-hawaii-us-sample-183824",
   "sample_asset_name": "beamstation_183824_restaurants-us-hi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/183824/beamstation_183824_restaurants-us-hi_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "0fe22896b1fcb32e3b1b8d2f08dfa74cd9299496786d65db733a1f715658c600",
-  "sample_size_bytes": 20113,
-  "total_records": 14
+  "sample_sha256": "d9eacbb9ed716a911b103de25b6346d971e2deeb9d121f010e70a086cae9e01e",
+  "sample_size_bytes": 20099,
+  "total_records": 11
 }
