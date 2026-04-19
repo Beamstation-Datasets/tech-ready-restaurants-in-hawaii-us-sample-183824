@@ -9,9 +9,9 @@
 | Dataset ID | `183824` |
 | Location | Hawaii |
 | Category | Restaurants |
-| Full dataset size | 14 records |
-| Free sample size | 1 records (7.14%) |
-| Last export | 2026-04-08T04:11:30.110910+00:00 |
+| Full dataset size | 11 records |
+| Free sample size | 1 records (9.09%) |
+| Last export | 2026-04-15T08:48:37.246674+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-hawaii-us-sample-183824/releases/download/sample-latest/beamstation_183824_restaurants-us-hi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
